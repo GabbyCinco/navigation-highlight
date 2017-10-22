@@ -6,14 +6,26 @@ html {
 
 body {
   margin: 0;
+  background-color: #fff;
 }
 
 header {
-  background-color: #fff;
+  background-color: #ffe500;
 }
 
 h1{
   margin: 0;
   text-align: center;
   font-family: 'Sigmar One', cursive;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+.nav li {
+  display: inline-block;
 }
