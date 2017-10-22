@@ -29,3 +29,16 @@ h1{
 .nav li {
   display: inline-block;
 }
+
+.nav a {
+  color: #fff;
+  display: inline-block;
+  text-decoration: none;
+  background-color: #b2a212;
+  padding: .3em;
+  border-radius: 4px;
+}
+
+.nav a:hover {
+  background-color: #cc1465;
+}
